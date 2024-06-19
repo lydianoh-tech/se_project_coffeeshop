@@ -128,7 +128,7 @@
   box-sizing: border-box;
   margin-top: 8px;
 }
-::placeholder {
+::-webkit-input-placeholder {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
