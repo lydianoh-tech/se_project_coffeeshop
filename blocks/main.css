@@ -128,7 +128,7 @@
   box-sizing: border-box;
   margin-top: 8px;
 }
-::-webkit-input-placeholder {
+.form__input::placeholder {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -287,7 +287,17 @@
   width: 105px;
   height: 39px;
 }
+.footer__logo-section,
+.footer__social-section {
+  min-width: 200px;
+  margin: 10px 0;
+}
 .footer__social-heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
   color: #ffff;
   position: absolute;
   bottom: 20px;
@@ -305,6 +315,11 @@
   list-style-type: none;
 }
 .footer__social-link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
   margin-top: 20px;
   color: #ffff;
   transition: color 0.3s ease;
@@ -321,6 +336,11 @@
   margin-right: 10px;
 }
 .footer__copyright {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
   margin-top: 108px;
   margin-bottom: 60px;
   color: #ffff;
