@@ -30,6 +30,7 @@
   margin-left: 80px;
   max-width: 251px;
   display: flex;
+  line-height: 1;
 }
 .about__content {
   max-width: 660px;
