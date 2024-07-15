@@ -28,15 +28,14 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
+  margin-bottom: 108px;
 }
 .footer__list-item {
   color: #ffff;
-  gap: 16px;
   list-style-type: none;
-}
-.footer__list-item:last-child {
   margin-top: 16px;
 }
+
 .footer__social-link {
   color: #ffff;
   transition: color 0.3s ease;
@@ -44,7 +43,6 @@
 }
 .footer__social-link:hover {
   color: #c1c1c1;
-  transition: background-color 1s ease-in 2s;
 }
 .footer__social-icon {
   width: 16px;

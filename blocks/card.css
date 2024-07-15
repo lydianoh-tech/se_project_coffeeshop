@@ -1,11 +1,12 @@
 .card {
   width: 540px;
-  margin: 100px, 0 100px, 0;
+  padding: 100px, 0;
 }
 .card__list {
-  padding: 0;
-
   list-style-type: none;
+  width: 540px;
+  padding: 0;
+  margin: 0;
 }
 .card__title {
   margin: 0 0 32px;
@@ -17,7 +18,7 @@
 }
 .card__list-item {
   display: flex;
-  margin: 32px 0 0;
+  margin: 32px 0 16px;
   font-family: "Noto Serif", Times New Roman, serif;
   font-style: normal;
   font-weight: normal;
