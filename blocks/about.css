@@ -43,8 +43,8 @@
   font-size: 20px;
   line-height: 30px;
   color: #ffff;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 0;
+  padding: 20px;
 }
 .about__circle {
   background-color: #2f80ed;
