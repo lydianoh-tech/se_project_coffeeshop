@@ -8,6 +8,7 @@
 .recipes__content {
   padding-top: 100px;
   padding-left: 80px;
+  padding-right: 80px;
   padding-bottom: 215px;
 }
 .recipes__title {
@@ -54,5 +55,6 @@
   display: flex;
   justify-content: space-between;
   color: #ffff;
-  margin-bottom: 24px;
+  margin-bottom: 0px;
+  margin-top: 24px;
 }

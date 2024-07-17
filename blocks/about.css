@@ -35,6 +35,9 @@
 .about__content {
   max-width: 660px;
   padding: 119px 80px 173px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 .about__paragraph {
   font-family: "Noto Serif", "Times New Roman", serif;
@@ -44,7 +47,6 @@
   line-height: 30px;
   color: #ffff;
   margin: 0;
-  padding: 20px;
 }
 .about__circle {
   background-color: #2f80ed;

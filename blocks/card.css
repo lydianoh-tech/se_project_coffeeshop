@@ -18,7 +18,7 @@
 }
 .card__list-item {
   display: flex;
-  margin-top: 32px;
+  margin-top: 16px;
   margin-bottom: 16px;
   font-family: "Noto Serif", Times New Roman, serif;
   font-style: normal;
@@ -30,4 +30,7 @@
 .card__list-divider {
   border-bottom: 1px solid black;
   flex-grow: 1;
+}
+..card__list-item :last-child {
+  margin-bottom: 0;
 }
