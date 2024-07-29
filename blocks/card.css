@@ -31,6 +31,3 @@
   border-bottom: 1px solid black;
   flex-grow: 1;
 }
-.card__list-item :last-child {
-  margin-bottom: 0;
-}

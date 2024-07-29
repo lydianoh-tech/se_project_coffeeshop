@@ -63,4 +63,5 @@
 .header__paragraph {
   color: #6f6f6f;
   margin: 0;
+  align-content: flex-end;
 }
