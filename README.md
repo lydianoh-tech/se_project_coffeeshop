@@ -54,3 +54,5 @@ Provide keyboard control so visitors can move about the site using their keyboar
    Verify that the page functions across all main browsers.
    You should also review the Chrome, Firefox, Safari, Edge page, and other browsers and devices.
    Fix any compatibility issues so that every client experiences the same thing.
+
+   url:https://lydianoh-tech.github.io/se_project_coffeeshop/
